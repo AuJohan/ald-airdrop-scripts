@@ -3,7 +3,7 @@
 Airdrop Page: https://airdrop.aladdin.club/
 
 The airdrop logic can not meet everyone's requirements. Please just enjoy the extra bonus.
-
+Airdrop logic : 
 ## Run
 
 * replace the archive node endpoint and private key in `./scripts/web3.js` (or put it in .env)
